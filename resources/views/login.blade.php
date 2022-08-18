@@ -1,6 +1,6 @@
 @extends('master')
 @section("content")
-<div class="container custom-login">
+<div class="container my-login">
     <div class="row">
         <div class="col-sm-4 col-sm-offset-4">
             <form action="login" method="POST">
